@@ -1,0 +1,15 @@
+{
+    "477643393351024671" : {
+        "ban_cases" : true,
+        "ban_mention_spam" : false,
+        "cmute_cases" : false,
+        "delete_repeats" : false,
+        "hackban_cases" : true,
+        "kick_cases" : true,
+        "mod-log" : "499519328861945876",
+        "respect_hierarchy" : false,
+        "smute_cases" : true,
+        "softban_cases" : true,
+        "unban_cases" : true
+    }
+}

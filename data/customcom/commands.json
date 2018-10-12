@@ -1,0 +1,6 @@
+{
+    "477643393351024671" : {
+        "help_moderator" : "Moderator Privileges:\n  **ban**         Bans user and deletes last X days worth of messages.\n  **cleanup**     Deletes messages.\n  **ignore**      Adds servers/channels to ignorelist\n  **kick**        Kicks user.\n  **mute**        Mutes user in the channel/server\n  **names**       Show previous names/nicknames of a user\n  **softban**     Kicks the user, deleting 1 day worth of messages.\n  **unmute**      Unmutes user in the channel/server     \n `Command Prefix: m!`",
+        "help_srmoderator" : "SrModerator Privileges:\n  **ban**         Bans user and deletes last X days worth of messages.\n  **cleanup**     Deletes messages.\n  **ignore**      Adds servers/channels to ignorelist\n  **kick**        Kicks user.\n  **mute**        Mutes user in the channel/server\n  **names**       Show previous names/nicknames of a user\n  **softban**     Kicks the user, deleting 1 day worth of messages.\n  **unmute**      Unmutes user in the channel/server \n  **unignore**    Removes servers/channels from ignorelist    \n  **filter**      Adds/removes words from filter\n  **hackban**     Preemptively bans user from the serve\n `Command Prefix: m!`"
+    }
+}
