@@ -5,7 +5,7 @@
     "PREFIXES" : [
         "m!"
     ],
-    "TOKEN" : "NDk5NTExNjI4MzY3MTM0NzIz.Dp9bGw.QXxxJphCTCpaqAfkrj7JX238FCE",
+    "TOKEN" : "BOT_TOKEN",
     "default" : {
         "ADMIN_ROLE" : "?? HAS ??",
         "MOD_ROLE" : "Helper",
